@@ -391,7 +391,7 @@ body, ul {
     margin-bottom: 30px;
     padding-top: 80px;
     padding-left: 5%;
-    padding-right: 5%;
+    padding-right: 5%git;
     display: flex;
 }
 .embed-container p {
@@ -427,3 +427,58 @@ body, ul {
     margin-top: 30px;
 }
  /* Fim estilo videos */
+
+
+
+ /* Inicio estilo contato */
+ .contact {
+    padding: 70px 0px;
+    background: #acaa9ae5;
+ }
+ .section-title h2 {
+    color: #919191;
+    font-size: 30px;
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    border-bottom: 5px solid #919191;
+    padding-bottom: 10px;
+    display: inline-block;
+ }
+ .section-title p {
+    color: #000;
+    margin-bottom: 30px;
+ }
+ .contact input,
+ .contact textarea {
+    background: #ffff;
+ }
+ .contact textarea {
+    min-height: 188px;
+    max-width: 100% ;
+ }
+ .contact .map {
+    overflow: hidden;
+    border-radius: 4px;
+    height: 70%;
+ }
+ /* Fim estilo contato */
+
+
+ /* Inicio MKT */
+ .market-place {
+    height: 180px;
+    width: 100%;
+    position: relative;
+    padding: 20px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left:auto ;
+    margin-right: auto;
+ }
+ .market-place img {
+    height: 160px;
+    width: 100%;
+ }
+ /* Fim MKT */
